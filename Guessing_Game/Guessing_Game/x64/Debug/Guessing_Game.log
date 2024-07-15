@@ -1,0 +1,6 @@
+﻿  Guessing_Game.cpp
+C:\Users\bijay\source\repos\Guessing_Game\Guessing_Game\Guessing_Game.h(238,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bijay\source\repos\Guessing_Game\Guessing_Game\Guessing_Game.h(266,39): warning C4101: 'e': unreferenced local variable
+C:\Users\bijay\source\repos\Guessing_Game\Guessing_Game\Guessing_Game.cpp(5,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Guessing_Game.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Guessing_Game.vcxproj -> C:\Users\bijay\source\repos\Guessing_Game\x64\Debug\Guessing_Game.exe

@@ -1,0 +1,3 @@
+C:\Users\bijay\source\repos\Guessing_Game\Guessing_Game\x64\Debug\Guessing_Game.vcxproj.AssemblyReference.cache
+C:\Users\bijay\source\repos\Guessing_Game\Guessing_Game\x64\Debug\GuessingGame.Guessing_Game.resources
+C:\Users\bijay\source\repos\Guessing_Game\Guessing_Game\x64\Debug\Guessing_Game.vcxproj.GenerateResource.cache
